@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+:root{
+    --cor_principal-1 : #2e7bef;
+    --cor_principal-2 : #2563eb;
+    
+    --cor_secundaria-1 : #ffffff;
+    --cor_secundaria-2 : #757575;
+
+    --cor_texto-1 : #292524;
+    --cor_texto-2 : #ffffff;
+    --cor_texto-3 : #757575;
+}
+
+/* PADRÃO */
+*{
+    margin: 0px;
+    padding:0px;
+    height: auto;
+    color: var(--cor_texto-1);
+}
+
+body{
+    display: grid;
+    grid-template-columns: 19vh auto;
+    grid-row: auto auto auto;
+	font-family: 'Roboto';
+}
+
+/* GRID */
+.top{
+    grid-column: 1/3;
+    grid-row: 1/2;
+}
+
+.aside_menu{
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+.content{
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+.final{
+    grid-column: 1/3;
+    grid-row: 3/4;
+}
