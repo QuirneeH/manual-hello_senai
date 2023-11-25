@@ -85,7 +85,7 @@ ul li{
 .top_menu:hover #top_menu_drop{
 	display: block;
 }
-
+/* ASIDE */
 	/* SÚMARIO */
 .menu_redirect{
 	width: 100%;
@@ -126,12 +126,13 @@ ul li{
 	font-weight: bold;
 	text-decoration: underline;
 }
-
+/* MAIN */
 	/* CONTEÚDO */
 .content{
 	padding: 15px;
 }
 
+/* FOOTER */
 	/* RODAPÉ */
 .final{
 	display: flex;
