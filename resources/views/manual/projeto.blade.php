@@ -3,7 +3,11 @@
 @section('page', 'Projeto')
 
 @section('content')
-PROJETO
+EM PRODUÇÃO
+@endsection
+
+@section('sumary')
+
 @endsection
 
 @section('footer_services')

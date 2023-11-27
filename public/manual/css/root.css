@@ -2,15 +2,15 @@
 
 :root{
     /* CORES */
-    --cor_principal-1 : #2e7bef;
-    --cor_principal-2 : #2563eb;
+    --principal-1 : #2e7bef;
+    --principal-2 : #2563eb;
     
-    --cor_secundaria-1 : #ffffff;
-    --cor_secundaria-2 : #757575;
+    --secundaria-1 : #ffffff;
+    --secundaria-2 : #757575;
 
-    --cor_texto-1 : #292524;
-    --cor_texto-2 : #ffffff;
-    --cor_texto-3 : #757575;
+    --texto-1 : #292524;
+    --texto-2 : #ffffff;
+    --texto-3 : #757575;
 }
 
 /* PADRÃO */
@@ -18,12 +18,12 @@
     margin: 0px;
     padding:0px;
     height: auto;
-    color: var(--cor_texto-1);
+    color: var(--texto-1);
 }
 
 body{
     display: grid;
-    grid-template-columns: 19vh auto;
+    grid-template-columns: 25vh auto;
     grid-row: auto auto auto;
 	font-family: 'Roboto';
 }

@@ -31,8 +31,8 @@
                 <div class="option_drop">
                     <a href="{{ route('manual.users') }}"><button id="nav_button">Usuário</button></a>
                         <ul id="top_menu_drop">
-                            <a href="#"><button id="nav_button">Aluno</button></a>
-                            <a href="#"><button id="nav_button">Professor</button></a>
+                            <a href="{{ route('manual.users') }}"><button id="nav_button">Aluno</button></a>
+                            <a href="{{ route('manual.users') }}"><button id="nav_button">Professor</button></a>
                         </ul>
                     </div>
                 <a href="{{ route('manual.projects') }}"><button id="nav_button">Projetos</button></a>
@@ -47,6 +47,13 @@
 <!-- /Topo da pagina -->
 
 <!-- Súmario lateral -->
+@php
+    $url = $_SERVER["REQUEST_URI"];
+@endphp
+
+@if($url == '/manual/inicio')
+
+@else
 <aside class="aside_menu">
     <div class="menu_redirect">
         <!-- Titulo -->
@@ -57,6 +64,8 @@
         </div>
     </div>
 </aside>
+@endif
+
 <!-- /Súmario lateral -->
 
 <!-- Conteúdo da página -->

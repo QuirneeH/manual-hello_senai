@@ -20,34 +20,23 @@ Aprenda e Cresça: Através de interações construtivas, desafios propostos pel
 
 <p>Agora, é hora de começar sua jornada de criação e aprendizado. Aproveite ao máximo o Hello_Senai e faça parte de nossa crescente comunidade de entusiastas de desenvolvimento de sistemas. Juntos, podemos alcançar grandes realizações!</p><br>
 <p>Obrigado por escolher o Hello_Senai. Vamos criar, aprender e inovar juntos!.</p>
-
 @endsection
 
 @section('sumary')
-<ul>
-    <li><a href="#">Menu Item 1</a></li>
-    <li><a href="#">Menu Item 2</a></li>
-    <li><a href="#">Menu Item 3</a></li>
-    <li><a href="#">Menu Item 4</a></li>
-    <li><a href="#">Menu Item 5</a></li>
-    <li><a href="#">Menu Item 6</a></li>
-    <li><a href="#">Menu Item 7</a></li>
-    <li><a href="#">Menu Item 8</a></li>
-    <li><a href="#">Menu Item 9</a></li>
-</ul>
+
 @endsection
 
 @section('footer_services')
 <ul>
-    <li><a href="#"><button id="nav_button"></button></a></li>
-    <li><a href="#"><button id="nav_button"></button></a></li>
-    <li><a href="#"><button id="nav_button"></button></a></li>
+    <a href="#"><button id="nav_button"></button></a>
+    <a href="#"><button id="nav_button"></button></a>
+    <a href="#"><button id="nav_button"></button></a>
 </ul>
 @endsection
 
 @section('footer_FAQ')
 <ul>
-    <li><a href="#"><button id="nav_button">FAQ</button></a></li>
-    <li><a href="#"><button id="nav_button">GitHub</button></a></li>
+    <a href="#"><button id="nav_button">FAQ</button></a>
+    <a href="#"><button id="nav_button">GitHub</button></a>
 </ul>
 @endsection
