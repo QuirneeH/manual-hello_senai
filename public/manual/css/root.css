@@ -4,6 +4,7 @@
     /* CORES */
     --principal-1 : #2e7bef;
     --principal-2 : #2563eb;
+    --principal-3 : #00b7ff;
     
     --secundaria-1 : #ffffff;
     --secundaria-2 : #757575;
@@ -19,19 +20,23 @@
     padding:0px;
     height: auto;
     color: var(--texto-1);
+    scroll-behavior: smooth;
+    scroll-padding-top: 70px;
 }
 
 body{
     display: grid;
-    grid-template-columns: 25vh auto;
+    grid-template-columns: 180px auto;
     grid-row: auto auto auto;
 	font-family: 'Roboto';
+    /* padding-top: 165px; */
 }
 
 /* GRID */
 .top{
     grid-column: 1/3;
     grid-row: 1/2;
+    
 }
 
 .aside_menu{
@@ -42,6 +47,7 @@ body{
 .content{
     grid-column: 2/3;
     grid-row: 2/3;
+    min-height: 71.6vh;
 }
 
 .final{
