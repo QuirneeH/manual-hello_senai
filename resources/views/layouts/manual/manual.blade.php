@@ -31,8 +31,8 @@
                 <div class="option_drop">
                     <a href="{{ route('manual.users') }}"><button id="nav_button">Usuário</button></a>
                         <ul id="top_menu_drop">
-                            <a href="{{ route('manual.users') }}"><button id="nav_button">Aluno</button></a>
-                            <a href="{{ route('manual.users') }}"><button id="nav_button">Professor</button></a>
+                            <a href="{{ route('manual.users') }}#user_A"><button id="nav_button">Aluno</button></a>
+                            <a href="{{ route('manual.users') }}#user_P"><button id="nav_button">Professor</button></a>
                         </ul>
                     </div>
                 <a href="{{ route('manual.projects') }}"><button id="nav_button">Projetos</button></a>
@@ -55,7 +55,7 @@
 
 @else
 <aside class="aside_menu">
-    <div class="menu_redirect">
+    <div class="menu_scroll">
         <!-- Titulo -->
         <h1>Súmario</h1>
         <!-- Opções -->
@@ -98,10 +98,13 @@
     <!-- /Possiblilidades -->
 
     <!-- Links -->
-    <div class="FAQ">
+    <div class="links">
         <h2>Links</h2>
-        <div class="FAQ_options">
-            @yield('footer_FAQ')
+        <div class="links_options">
+            <ul>
+                <li><a href="#">FAQ</a></li>
+                <li><a href="#">GitHub</a></li>
+            </ul>
         </div>
     </div>
     <!-- /Links -->

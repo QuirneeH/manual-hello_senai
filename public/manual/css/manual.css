@@ -1,31 +1,18 @@
 @charset "UTF-8";
 /* PADRÃO */
-.content h1{
-	
-}
-
-.content h2{
-
-}
-
-.content h3{
-
-}
-
-.content h4{
-
-}
-
-.content p{
-
-}
-
 .top_title h1{
 	font-size: 33px;
 	margin-bottom: 15px;
 }
 
 /* HEADER */
+/* .top{
+	position: fixed;
+	width: 100%;
+    top: 0;
+    left: 0;
+} */
+
 	/* TITULO */
 .top, .final{
 	background: linear-gradient(128deg,
@@ -34,7 +21,7 @@
 }
 
 .top_title{
-	padding: 40px 0 40px 95px;
+	padding: 30px 0 30px 95px;
 	margin-bottom: 10px;
 }
 
@@ -55,7 +42,7 @@
 	/* MENU TOPO */
 .top_menu{
 	border-top: 1px solid var(--secundaria-1);
-	background: none; 
+	background: none;
 }
 
 .top_menu_options{
@@ -64,7 +51,7 @@
 
 .top_menu ul{
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 
 .top_menu ul a{
@@ -110,13 +97,14 @@
 }
 /* ASIDE */
 	/* SÚMARIO */
-.menu_redirect{
+.menu_scroll{
 	width: 100%;
 	float: left;
-	background: linear-gradient(var(--secundaria-2) 0%, var(--secundaria-1) 90%);
+	background: linear-gradient(var(--principal-1) 0%, var(--secundaria-1) 80%);
+	min-height: 60vh;
 }
 
-.menu_redirect h1{
+.menu_scroll h1{
 	font-size: 20px;
 	font-weight: bold;
 	text-align: center;
@@ -127,6 +115,7 @@
 .menu_options ul{
 	margin: 0px;
 	padding: 0px;
+	font-weight: 600;
 }
 
 .menu_options ul li{
@@ -141,13 +130,14 @@
 }
 
 .menu_options ul li a{
+	background-color: none;
 	color: var(--texto-1);
 	text-decoration: none;
 }
 
 .menu_options ul li a:hover{
 	color: var(--texto-1);
-	font-weight: bold;
+	letter-spacing: 1px;
 	text-decoration: underline;
 }
 /* MAIN */
@@ -165,18 +155,15 @@
 .final{
 	display: flex;
 	justify-content: center;
-	padding: 17px 50px 17px 50px;
+	padding: 17px 50px 17px 150px;
 }
 
-.final #nav_button{
-	background: none;
-	border: none;
+.final a{
 	color: var(--texto-2);
-	font-size: 16px;
-	transition: color .5s;
+	text-decoration: none;
 }
 
-.final #nav_button:hover{
+.final a:hover{
 	font-weight: bold;
 	text-decoration: underline;
 }
@@ -186,12 +173,12 @@
 	margin-bottom: 3px;
 }
 
-
-.contacts, .services, .FAQ{
-	color: var(--texto-2);
-	width: 33%;
+.final ul li{
 	list-style-type: none;
-	
+}
+
+.contacts, .services, .links{
+	width: 30%;
 }
 
 .contacts ul li{
