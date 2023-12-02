@@ -6,11 +6,11 @@
 
 <!-- Conteudo de Projeto -->
 @section('content')
-<h2>Introdução</h2>
+<h1>Introdução</h1>
 <p>O espaço para projetos você terá a oportunidade de reunir ideias, trabalhar em equipe e desenvolver projetos empolgantes de maneira colaborativa. Nossa plataforma foi projetada para fornecer um ambiente intuitivo e eficiente para transformar suas ideias em realidade.</p>
 <br>
-<h2>Como dono de um projeto</h2><br>
-<h3>Criar Projeto</h3>
+<h1>Como dono de um projeto</h1><br>
+<h2>Criar Projeto</h2>
 <p>Você como  usuário aluno tem a opção de criar projetos, nele será mostrado como está o desenvolvimento do seu projeto, ou até como ficou o resultado final, veja abaixo como criar seus projetos na plataforma:</p>
 <ul>
     <li></li>
