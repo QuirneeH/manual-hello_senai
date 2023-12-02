@@ -127,6 +127,7 @@
 .menu_options ul ol li{
 	margin: 0px 20px 0px;
 	font-size: 13px;
+	
 }
 
 .menu_options ul li a{
@@ -146,9 +147,13 @@
 	padding: 15px;
 }
 
-.content ol{
-	margin-left: 15px;
+.content ul{
+	margin-left: 30px;
 }
+
+/* .content ol li{
+	list-style-type: none;
+} */
 
 /* FOOTER */
 	/* RODAPÉ */

@@ -9,11 +9,12 @@
 <h2>Introdução</h2>
 <p>Para ter acesso à plataforma é primeiramente preciso ser um aluno ou um professor do SENAI da matéria de Desenvolvimento de Sistemas, sendo um aluno vamos ao cadastro.</p><br>
 
-<ol>
-    <li>Passo 1</li>
-    <li>Passo 2</li>
-    <li>Passo 3</li>
-</ol><br>
+<ul>
+    <li>Para fazer o cadastro na plataforma, primeiro você precisa estar matriculado no SENAI. </li><br>
+    <li>Na primeira tela, escolha aluno, caso você seja um aluno da instituição ou professor caso você seja um professor da instituição.</li><br>
+    <li>Clique na opção de se registrar, para fazer o cadastro na plataforma</li><br>
+    <li> Insira suas informações como nome, email disponibilizado pelo Senai e criar uma senha.</li>
+</ul><br>
 
 <h2 id="user_A">Usuário Aluno</h2>
 <p>Com seu perfil criado seu acesso a plataforma agora foi aceito. Bem vindo.</p>
@@ -54,6 +55,7 @@
     </ol>
     <li><h3 id="challenger">Desafio</h3></li>
     <p>Os professores têm um papel importante no aprendizado do aluno, além de passar conhecimento e dividir experiências de trabalho, estimula com atividades em sala de aula ou para casa, tendo isso em mente, na plataforma os professores podem propor desafios aos alunos do curso de desenvolvimento de sistemas, podendo ver as proposta dos alunos, ter acesso ao diretório.</p><br>
+    
     <ol>
         <p><h4>Criar um Desafio:</h4> Abra um desafio para os alunos de Desenvolvimento de Sistemas com problemas existentes, ideias mirabolantes ou para testar os conhecimentos dos alunos do curso.</p><br>
         
