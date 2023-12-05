@@ -1,17 +1,5 @@
 @charset "UTF-8";
 /* PADRÃO */
-* h1{
-	font-size: 22px;
-}
-
-* h2{
-	font-size: 20px;
-}
-
-* h3{
-	font-size: 18px;
-}
-
 .top_title h1{
 	font-size: 33px;
 	margin-bottom: 15px;
@@ -117,7 +105,7 @@
 }
 
 .menu_scroll h1{
-	font-size: 22px;
+	font-size: 2rem;
 	font-weight: bold;
 	text-align: center;
 	color: var(--texto-2);
@@ -133,8 +121,10 @@
 
 .menu_options ul li{
 	margin: 0px 20px 20px;
-	font-size: 15px;
+	font-size: 1.3rem;
 	padding: 8px 0 0 0;
+	white-space: nowrap;
+	text-overflow: ellipsis;
 }
 
 .menu_options ul ol li{
@@ -150,7 +140,6 @@
 
 .menu_options ul li a:hover{
 	color: var(--texto-1);
-	letter-spacing: 1px;
 	text-decoration: underline;
 }
 /* MAIN */
@@ -158,6 +147,18 @@
 .content{
 	padding: 15px;
 	letter-spacing: 1.2px;
+}
+
+.content h1{
+	font-size: 2rem;
+}
+
+.content h2, .content h3, .content p, .content ol ol{
+	font-size: 1.5rem;
+}
+
+.content h2, .content h3{
+	text-decoration: underline;
 }
 
 .content ul{
@@ -168,9 +169,6 @@
 .content ol{
 	padding-left: 17px;
 }
-/* .content ol li{
-	list-style-type: none;
-} */
 
 /* FOOTER */
 	/* RODAPÉ */
@@ -190,13 +188,15 @@
 	text-decoration: underline;
 }
 
-.final h2{
+.final h1{
+	font-size: 2rem;
 	color: var(--texto-2);
 	margin-bottom: 3px;
 }
 
 .final ul li{
 	list-style-type: none;
+	font-size: 1.5rem;
 }
 
 .contacts, .services, .links{

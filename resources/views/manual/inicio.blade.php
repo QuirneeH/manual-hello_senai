@@ -17,7 +17,7 @@
 Aprenda e Cresça: Através de interações construtivas, desafios propostos pelos professores e feedback de outros membros, você terá a oportunidade de aprender e aprimorar suas habilidades continuamente.</p><br>
 
 <h1>Como Usar Este Manual?</h1>
-<p>Este manual do usuário é o seu guia completo para navegar e aproveitar ao máximo o Hello_Senai. Ele irá ajudá-lo a compreender todas as funcionalidades, desde a criação de projetos até a colaboração com outros usuários. Aqui, você encontrará passo a passo, dicas e truques para tornar sua experiência mais agradável e produtiva.</p><br>
+<p>Este manual do usuário é o seu guia completo para navegar e aproveitar ao máximo o Hello_Senai. Ele irá ajudá-lo a compreender todas as funcionalidades, desde a criação de projetos até a colaboração com outros usuários. Dividido em 4 tópicos principais pensados principalmente nos usuários (Aluno e Professor) com características e possibilidades de uso distintas</p><br>
 
 <p>Estamos comprometidos em fornecer a você a melhor experiência possível no Hello_Senai. Portanto, não hesite em entrar em contato conosco se tiver dúvidas, sugestões ou problemas. Estamos aqui para ajudar!</p><br>
 

@@ -28,6 +28,7 @@
 
         <p><h3>Editar Perfil:</h3> Atualize suas informações de perfil, incluindo nome, foto e outras configurações.</p><br>
     </ol>
+    
     <li><h2 id="actions">Acões</h2></li>
     <ol>
         <p><h3>Criar um Projeto:</h3> Com a permissão do acesso à plataforma o aluno pode criar seus projetos e postar na comunidade. Inicie a página de apresentação de um projeto de desenvolvimento de sistemas e compartilhe sua ideia.</p><br>

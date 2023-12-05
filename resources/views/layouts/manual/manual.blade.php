@@ -78,7 +78,7 @@
 <footer class="final">
     <!-- Contatos -->
     <div class="contacts">
-        <h2>Contatos</h2>
+        <h1>Contatos</h1>
         <ul>
             <li>juliana.n@ba.estudante.senai.br</li>
             <li>guilherme.k.santos@ba.estudante.senai.br</li>
@@ -90,7 +90,7 @@
 
     <!-- Possiblilidades -->
     <div class="services">
-        <h2>Serviços</h2>
+        <h1>Serviços</h1>
         <div class="services_options">
             @yield('footer_services')
         </div>
@@ -99,7 +99,7 @@
 
     <!-- Links -->
     <div class="links">
-        <h2>Links</h2>
+        <h1>Links</h1>
         <div class="links_options">
             <ul>
                 <li><a href="#">FAQ</a></li>

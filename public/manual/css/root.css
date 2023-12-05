@@ -26,9 +26,10 @@
 
 body{
     display: grid;
-    grid-template-columns: 180px auto;
+    grid-template-columns: 200px auto;
     grid-row: auto auto auto;
 	font-family: 'Roboto';
+    min-height: 100vh;
     /* padding-top: 165px; */
 }
 
