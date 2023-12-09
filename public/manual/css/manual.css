@@ -161,6 +161,10 @@
 	font-size: 1.5rem;
 }
 
+.content h3{
+	font-size: 1.4rem;
+}
+
 .content h2, .content h3{
 	text-decoration: underline;
 }
@@ -172,6 +176,13 @@
 
 .content ol{
 	padding-left: 17px;
+}
+
+.content span{
+	background-color: red;
+	color: white;
+	padding: 2px;
+	font-weight: 800;
 }
 
 /* FOOTER */

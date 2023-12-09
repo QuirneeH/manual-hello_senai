@@ -7,10 +7,10 @@
 <!-- Conteudo de Convite -->
 @section('content')
 <h1>Introdução</h1>
-<p>O espaço para Convites dos Projetos é um espaço na plataforma para compartilhar seus Projetos com outros alunos com intuito de formar uma equipe de Desenvolvimento. Vinculando outros alunos ao seu Projetos e determinando cargos como a liderança.
-    Nesse espaço, seja para dividir seu projeto com outros alunos, ou para participar daquela ideia que você achou interessante, troquem mensagens por email e monte aquela equipe de Desenvolvedores.</p><br>
-    
-<h2 id="project_Dono">Como Dono de um Projeto</h2>
+<p>O espaço para Convites dos Projetos é um espaço na plataforma para compartilhar seus Projetos com outros alunos com intuito de formar uma equipe de Desenvolvimento. Vinculando outros alunos ao seu Projetos e determinando cargos como a liderança. Nesse espaço, seja para dividir seu projeto com outros alunos, ou para participar daquela ideia que você achou interessante, troquem mensagens por email e monte aquela equipe de Desenvolvedores.</p><br>
+
+<h1>Como Dono de um Projeto</h1>
+<h2 id="create">Criar um Convite</h2>
 <p>No seu convite você pode descrever brevemente sobre seu Projeto e quais habilidades de programação está buscando dos outros alunos para sua equipe.</p><br>
 <ul>
     <li>Na página inicial clique na opção –(nome da opção)-- será redirecionado para a página de convites.</li><br>
@@ -20,7 +20,7 @@
 </ul><br>
 <p>Lembre de deixar seu email de contato no convite para os alunos participarem.</p><br>
 
-<h2>Editar Convite</h2>
+<h2 id="edit">Editar Convite</h2>
 <p>Se possuir um Convite postado na página de Convite você poderá fazer alterações no seu Convite editando-o para melhor coerência ou corrigir o título ou a descrição.</p><br>
 <ul>
     <li>Na página de Convites selecione o seu convite e clique em editar convite.</li><br>
@@ -29,7 +29,7 @@
     <li>Pronto, suas alterações foram salvas.</li><br>
 </ul>
 
-<h2>Como Participante</h2>
+<h1 id="participate">Participar</h1>
 <p>Participe de uma equipe dividindo experiências e ideias com outros alunos. Entre em contato com os alunos responsáveis pelo Projeto por email descrevendo qual sua intenção no projeto.</p><br>
 
 <ul>
@@ -45,18 +45,11 @@
 @section('sumary')
 <ul>
     <li>
-        <a href="#user_A" id="user_usuarioA">Usuário Aluno</a>
+        Aluno Dono
         <ol>
-            <li><a href="#profile_A" id="user_perfilA">Perfil</a></li>
-            <li><a href="#actions" id="user_acoes">Acões</a></li>
-        </ol>
-    </li>
-    
-    <li>
-        <a href="#user_P" id="user_usuarioP">Usuário Professor</a>
-        <ol>
-            <li><a href="#profile_P" id="user_perfilP">Perfil</a></li>
-            <li><a href="#challenger" id="user_desafio">Desafio</a></li>
+            <li><a href="#create" id="user_perfilA">Criar Convite</a></li>
+            <li><a href="#edit" id="user_acoes">Editar Convite</a></li>
+            <li><a href="#participate">Participar</a></li>
         </ol>
     </li>
 </ul>

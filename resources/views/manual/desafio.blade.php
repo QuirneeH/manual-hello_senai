@@ -7,12 +7,13 @@
 <!-- Conteudo de Desafio -->
 @section('content')
 <h1>Introdução</h1>
-<p>Um incentivo ao estudo é importante para o aprendizado do aluno, isso que a nossa plataforma acredita e proporciona um espaço para desenvolvimento pessoal e profissional. Pensando nisso, adicionamos um incentivo mais “desafiador” para nossos alunos. Desafios são problemas elaborados pelos seus professores para os alunos de Desenvolvimento de Sistemas implementarem uma solução para o mesmo problema postando essas ideias na página do Desafio para que os professores possam avaliá-las e determinar a melhor ou as melhores soluções para o problema.</p><br>
+<p>Um incentivo ao estudo é importante para o aprendizado do aluno, isso que a nossa plataforma acredita e proporciona um espaço para desenvolvimento pessoal e profissional. Pensando nisso, adicionamos um incentivo mais “desafiador” para nossos alunos.</p>
+<p>Desafios são problemas elaborados pelos seus professores para os alunos de Desenvolvimento de Sistemas implementarem uma solução para o mesmo problema postando essas ideias na página do Desafio para que os professores possam avaliá-las e determinar a melhor ou as melhores soluções para o problema.</p><br>
 
 <h2>Criação de um Desafio (Professor)</h2>
 <p>Na criação do Desafio é importante que a descrição sobre a proposta esteja bem elaborada  para facilitar a interação dos alunos, pois, algumasmaneira de dizer nomes na área da programação podem não ser do entendimento de alguns alunos iniciantes.</p><br>
 
-<p> Pensando nas informações vamos a criação.</p><br>
+<p>Pensando nas informações vamos a criação.</p><br>
 <ul> 
     <li>Primeiro você precisa acessar a página de desafios, clicando no botão “desafios” </li><br>
     <li>Após acessar a página de desafio, você deve clicar no opção “criar desafio”, onde abrirá um popup para a criação do desafio</li><br>
@@ -29,7 +30,6 @@
 </ul>
 EM PRODUÇÃO
 @endsection
-
 <!-- /Conteudo de Desafio -->
 
 <!-- Súmario -->

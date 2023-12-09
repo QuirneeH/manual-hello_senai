@@ -16,7 +16,7 @@
     <div class="top_title">
         <div>
             <h1>Manual do Usuário</h1>
-            <h2>Enter Site Slogan</h2>
+            <h2>Hello Senai</h2>
         </div>
     </div>
     <!-- /Titulo no topo da página -->

@@ -10,7 +10,7 @@
 <p>Para ter acesso à plataforma é primeiramente preciso ser um aluno ou um professor do SENAI da matéria de Desenvolvimento de Sistemas, sendo um aluno vamos ao cadastro.</p>
 
 <ul>
-    <li>Para fazer o cadastro na plataforma, primeiro você precisa estar matriculado no SENAI. </li><br>
+    <span>Para fazer o cadastro na plataforma, primeiro você precisa estar matriculado no SENAI.</span><br><br>
     <li>Na primeira tela, escolha aluno, caso você seja um aluno da instituição ou professor caso você seja um professor da instituição.</li><br>
     <li>Clique na opção de se registrar, para fazer o cadastro na plataforma</li><br>
     <li>Insira suas informações como nome, email disponibilizado pelo Senai e criar uma senha.</li>
