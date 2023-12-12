@@ -11,9 +11,27 @@
 
 <ul>
     <span>Para fazer o cadastro na plataforma, primeiro você precisa estar matriculado no SENAI.</span><br><br>
-    <li>Na primeira tela, escolha aluno, caso você seja um aluno da instituição ou professor caso você seja um professor da instituição.</li><br>
-    <li>Clique na opção de se registrar, para fazer o cadastro na plataforma</li><br>
-    <li>Insira suas informações como nome, email disponibilizado pelo Senai e criar uma senha.</li>
+    <div class="tutorial">
+        <div id="image">
+            <li>Na primeira tela, escolha aluno, caso você seja um aluno da instituição ou professor caso você seja um professor da instituição.</li>
+            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+        </div>
+    </div>
+
+    <div class="tutorial">
+        <div id="image">
+            <li>Clique na opção de se registrar, para fazer o cadastro na plataforma</li>
+            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+        </div>
+    </div>
+    
+    <div class="tutorial">
+        <div id="image">
+            <li>Insira suas informações como nome, email disponibilizado pelo Senai e criar uma senha.</li>
+            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+        </div>
+    </div>
+    
 </ul><br>
 
 <h1 id="user_A">Usuário Aluno</h1>
