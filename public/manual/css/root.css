@@ -1,22 +1,23 @@
 @charset "UTF-8";
 
 :root{
-    /* CORES */
+/* CORES */
+    /* PAGINA */
     --principal-1 : #2e7bef;
     --principal-2 : #2563eb;
     --principal-3 : #00b7ff;
-    
     --secundaria-1 : #ffffff;
     --secundaria-2 : #757575;
-
     --texto-1 : #292524;
     --texto-2 : #ffffff;
     --texto-3 : #757575;
 
+    /* BALÕES DE ALERTA */
     --alerta-texto : #000000;
     --alerta-fundo : #e45947;
     --alerta-borda : #58151c;
 
+    /* BALÕES DE AJUDA */
     --erro-texto : #664d03;
     --erro-fundo : #fff3cd;
     --erro-borda : #ffe69c;
@@ -25,11 +26,11 @@
 /* PADRÃO */
 *{
     margin: 0px;
-    padding:0px;
+    padding: 0px;
     height: auto;
     color: var(--texto-1);
     scroll-behavior: smooth;
-    scroll-padding-top: 70px;
+    scroll-padding-top: 90px;
 }
 
 body{
