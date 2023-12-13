@@ -12,6 +12,14 @@
     --texto-1 : #292524;
     --texto-2 : #ffffff;
     --texto-3 : #757575;
+
+    --alerta-texto : #000000;
+    --alerta-fundo : #e45947;
+    --alerta-borda : #58151c;
+
+    --erro-texto : #664d03;
+    --erro-fundo : #fff3cd;
+    --erro-borda : #ffe69c;
 }
 
 /* PADRÃO */

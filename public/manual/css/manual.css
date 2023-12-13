@@ -154,7 +154,7 @@
 }
 
 .content p{
-	margin-bottom: 1rem;
+	margin-bottom: 2rem;
 }
 
 .content h2, .content h3, .content p, .content ol ol{
@@ -182,21 +182,43 @@
 }
 
 .content ul{
-	margin-left: 30px;
+	margin-left: 1px;
 	letter-spacing: 1.2px;
+	list-style-type: none;
 }
 
 .content ol{
 	padding-left: 17px;
 }
 
-.content span{
-	background-color: red;
-	color: white;
-	padding: 2px;
-	font-weight: 800;
+.content .alert{
+	padding: 5px;
+	text-align: center;
+	border: 2px solid var(--alerta-borda);
+	border-radius: 1rem;
+	background-color: var(--alerta-fundo);
+	margin-bottom: 1.5rem;
 }
 
+.content .alert p{
+	color: var(--alerta-texto);
+	font-size: 15px;
+	margin-bottom: 0;
+}
+
+.content .error{
+	padding: 5px;
+	text-align: center;
+	border: 2px solid var(--erro-borda);
+	border-radius: 1rem;
+	background-color: var(--erro-fundo);
+}
+
+.content .error p{
+	color: var(--erro-texto);
+	font-size: 15px;
+	margin-bottom: 0;
+}
 /* FOOTER */
 	/* RODAPÉ */
 .final{
