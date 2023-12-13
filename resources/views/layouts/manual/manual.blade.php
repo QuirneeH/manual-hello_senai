@@ -90,10 +90,7 @@
 
     <!-- Possiblilidades -->
     <div class="services">
-        <h1>Serviços</h1>
-        <div class="services_options">
-            @yield('footer_services')
-        </div>
+        
     </div>
     <!-- /Possiblilidades -->
 
