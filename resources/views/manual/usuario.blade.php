@@ -17,21 +17,21 @@
     <div class="tutorial" id="register_A">
         <div id="image">
             <li>Na primeira tela, selecione "Sou aluno".</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/Tela-de-selecao-de-conta-aluno.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
             <li>Clique na opção "Registre-se".</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/registro-de-aluno-1.png" alt="">
         </div>
     </div>
     
     <div class="tutorial">
         <div id="image">
-            <li>Insira suas informações como nome, Email de disponibilizado pelo Senai e crie uma Senha.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Insira suas informações como nome, Email de disponibilizado pelo Senai e crie uma Senha. Em seguida clique em "Registrar"</li>
+            <img src="/manual/images/registro-de-aluno-2.png" alt="">
         </div>
     </div>
 </ul><br>
@@ -45,21 +45,14 @@
     <div class="tutorial" id="login_A">
         <div id="image">
             <li>Clique em "Sou Aluno".</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/Tela-de-selecao-de-conta-aluno.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Digite seu Email de Aluno fornecido pelo SENAI e sua Senha criada anteriormente.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
-        </div>
-    </div>
-
-    <div class="tutorial">
-        <div id="image">
-            <li>Clique no botão "Log In"</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Digite seu Email de Aluno fornecido pelo SENAI e sua Senha criada anteriormente. Em seguida clique em "Log In"</li>
+            <img src="/manual/images/login-de-aluno.png" alt="">
         </div>
     </div>
 
@@ -105,21 +98,21 @@
     <div class="tutorial" id="register_P">
         <div id="image">
             <li>Clique em "Sou Professor".</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/Tela-de-selecao-de-conta-professor.png" alt="">
         </div>
     </div>
     
     <div class="tutorial">
         <div id="image">
             <li>Clique na opção "Registre-se."</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/registro-de-professor-1.png" alt="">
         </div>
     </div>
     
     <div class="tutorial">
         <div id="image">
             <li>Insira suas informações como nome, Email de disponibilizado pelo Senai e crie uma Senha.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/registro-de-professor-2.png" alt="">
         </div>
     </div>
 </ul><br>
@@ -132,21 +125,14 @@
     <div class="tutorial" id="login_P">
         <div id="image">
             <li>Clique em "Sou Professor".</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/Tela-de-selecao-de-conta-professor.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Digite seu Email de Professor fornecido pelo SENAI e sua Senha criada anteriormente.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
-        </div>
-    </div>
-
-    <div class="tutorial">
-        <div id="image">
-            <li>Clique no botão "Log In"</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Digite seu Email de Professor fornecido pelo SENAI e sua Senha criada anteriormente. Em seguida clique em "Log In"</li>
+            <img src="/manual/images/login-de-professor.png" alt="">
         </div>
     </div>
     

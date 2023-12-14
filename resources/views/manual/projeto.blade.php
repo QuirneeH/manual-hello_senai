@@ -19,29 +19,22 @@
     <div class="tutorial">
         <div id="image">
             <li>Primeiro você precisa acessar a página de projetos, clicando no botão "Projetos".</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/home-projeto.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
             <li>Após acessar a página de desafio, você deve clicar na opção "Criar Projeto", onde abrirá uma página para a criação do desafio.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/projeto-criar-1.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Agora você pode preencher as informações como: nome, descrição, definir uma imagem, definir o status atual do projeto, como estamos criando um novo projeto é recomendado selecionar "Construindo", definir os participantes do projeto e colocar o link do repositório do projeto do github.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
-        </div>
-
-        <div class="tutorial">
-            <div id="image">
-                <li>Com os campos preenchidos clique em "Criar".</li>
-                <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
-            </div>
-        </div>
+            <li>Agora você pode preencher as informações como: nome, descrição, definir uma imagem, definir o status atual do projeto, como estamos criando um novo projeto é recomendado selecionar "Construindo", definir os participantes do projeto e colocar o link do repositório do projeto do github. Com os campos preenchidos clique em "Criar".</li>
+            <img src="/manual/images/projeto-criar-2.png" alt="">
+        </div><br>
 
         <div class="error">
             <p>[AJUDA] Os campos com "<b>*</b>" são campos obrigatórios. Se não preenchidos não será possivel criar um Projeto.</p>
@@ -59,7 +52,7 @@
     <div class="tutorial">
         <div id="image">
             <li>Antes de tudo, primeiro você precisa acessar o perfil do criador do projeto.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/home-usuario-1.png" alt="">
         </div>
     </div>
 
@@ -94,14 +87,14 @@
     <div class="tutorial">
         <div id="image">
             <li>Estando na Pagina de "Projetos" clique na opções no canto superior da caixa do projeto e clique em "Denunciar".</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/projeto-reportar.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
             <li>Transcreva o motivo que te levou denuncia-lo e clique no botão "Denunciar" para enviar sua denuncia para os nosso administradores.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="" alt="">
         </div>
     </div>
 </ul>

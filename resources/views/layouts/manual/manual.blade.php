@@ -100,7 +100,7 @@
         <div class="links_options">
             <ul>
                 <li><a href="#">FAQ</a></li>
-                <li><a href="#">GitHub</a></li>
+                <li><a href="https://github.com">GitHub</a></li>
             </ul>
         </div>
     </div>
