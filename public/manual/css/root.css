@@ -29,8 +29,6 @@
     padding: 0px;
     height: auto;
     color: var(--texto-1);
-    scroll-behavior: smooth;
-    scroll-padding-top: 90px;
 }
 
 body{
@@ -39,6 +37,8 @@ body{
     grid-row: auto auto auto;
 	font-family: 'Roboto';
     min-height: 100vh;
+    scroll-behavior: smooth;
+    scroll-padding-top: 90px;
     /* padding-top: 165px; */
 }
 

@@ -16,28 +16,27 @@
 <div class="tutorial">
         <div id="image">
             <li>Na página inicial clique na opção "Convites" será redirecionado para a página de convites.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/home-convite.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Na página Convites clique em "Criar Convite"</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Na página Convites clique em "Criar Convite".</li>
+            <img src="/manual/images/convite-1.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Na página de criação adicione um título ao Convite e uma descrição sobre o seu projeto com no mínimo 3 caracteres.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Na página de criação adicione um título ao Convite e uma descrição sobre o seu projeto com no mínimo 3 caracteres. Com todos os campos preenchidos clique no botão "Criar" e seu convite será postado.</li>
+            <img src="/manual/images/convite-2.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Com todos os campos preenchidos clique no botão "Criar" e seu convite será postado.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <img src="/manual/images/convite-3.png" alt="">
         </div>
     </div>
 </ul>
@@ -50,29 +49,22 @@
 <ul>
     <div class="tutorial">
         <div id="image">
-            <li>>Na página do Convites selecione o seu convite e clique em editar convite.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>No seu perfil, na aba de "Convites" selecione o botão de editar.</li>
+            <img src="/manual/images/convite-editar-1.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>ou se prefirir pode acessar pelo seu perfile clicando em "convites"</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Ao clicar aparecerá o modal de Edição e escreva suas alterações. Com suas alterações feitas clique em "Atualizar".</li>
+            <img src="/manual/images/convite-editar-2.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Na página de edição escreva suas alterações do titulo ou descrição anterior</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
-        </div>
-    </div>
-
-    <div class="tutorial">
-        <div id="image">
-            <li>Com as modificações feitas clique em –(nome da opção)-- e pronto, suas alterações foram salvas</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Convite editado.</li>
+            <img src="/manual/images/convite-editar-3.png" alt="">
         </div>
     </div>
 </ul>
@@ -98,22 +90,22 @@
 <ul>
     <div class="tutorial">
         <div id="image">
-            <li>Para participar primeiro você deve escolher o convite que deseja, alguns deles aparecerão na página inicial, mas caso não tenha nenhum de seu interesse você pode acessar a página de convites clicando no botão convites, onde serão listados todos os convites enviados.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Na página inicial clique na opção "Convites" será redirecionado para a página de convites.</li>
+            <img src="/manual/images/home-convite.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Ao acessar o convite desejado você pode ler a descrição e ver quem o fez, você terá a opção de aceitar o convite, e caso queira você pode enviar uma mensagem para quem criou</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Ao acessar a página de Convites selecione o convite específico que deseja participar no botão "Acessar".</li>
+            <img src="/manual/images/convite-parti-1.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Quando você aceita um convite, um email será enviado para quem o criou, você deverá aguardar o mesmo aceitar ou não a sua entrada no projeto</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Deixe sua mensagem para do porque você deseja participar e envie clicando no botão "Solicitar".</li>
+            <img src="/manual/images/convite-parti-2.png" alt="">
         </div>
     </div>
 </ul>

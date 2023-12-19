@@ -51,22 +51,22 @@
 <ul>
     <div class="tutorial">
         <div id="image">
-            <li>Antes de tudo, primeiro você precisa acessar o perfil do criador do projeto.</li>
-            <img src="/manual/images/home-usuario-1.png" alt="">
+            <li>Antes de tudo, primeiro você precisa acessar a página de "Projetos".</li>
+            <img src="/manual/images/home-projeto.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Após acessar o perfil do Usuário Dono você deve ir na opção "Projetos", onde serão listados os seus projetos listados, e selecione o projeto que deseja fazer um comentário.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Após acessar a página de Projetos listados, selecione o projeto que deseja fazer um comentário.</li>
+            <img src="/manual/images/comentario-1.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Clique na caixa de texto e digite seu comentário. após terminar clique em "".</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Clique na caixa de texto e digite seu comentário. após terminar clique em "Comentar".</li>
+            <img src="/manual/images/comentario-2.png" alt="">
         </div>
     </div>
 
@@ -94,7 +94,7 @@
     <div class="tutorial">
         <div id="image">
             <li>Transcreva o motivo que te levou denuncia-lo e clique no botão "Denunciar" para enviar sua denuncia para os nosso administradores.</li>
-            <img src="" alt="">
+            <img src="/manual/images/projeto-reportar-2.png" alt="">
         </div>
     </div>
 </ul>
@@ -107,7 +107,7 @@
 <ul>
     <div class="tutorial">
         <div id="image">
-            <li>Antes de tudo você precisa acessar a funcionalidade de editar o projeto, acesse passo a passo aqui.</li>
+            <li>Acesse a página do seu Projeto.</li>
             <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
         </div>
     </div>
@@ -132,29 +132,22 @@
 <ul>
     <div class="tutorial">
         <div id="image">
-            <li>Primeiro você precisa acessar o seu perfil.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Primeiro você precisa acessar a pagina do seu Projeto e abrir o menu de opções.</li>
+            <img src="/manual/images/projeto-editar-1.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Após acessar o seu perfil você deve ir na opção "projetos", onde serão listados os seus projetos, e selecione o projeto que deseja editar.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Após clicar em "Editar", aparecerá o modal de Editar Projeto, preencha os campos com as alterações desejadas e quando terminar, clique em "Atualizar"</li>
+            <img src="/manual/images/projeto-editar-2.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Quando você acessar o seu projeto você deve ir na opção editar.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
-        </div>
-    </div>
-
-    <div class="tutorial">
-        <div id="image">
-            <li>Você pode então atualizar os dados do seu projeto como título, descrição e imagem.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Suas alterações foram salvas.</li>
+            <img src="/manual/images/projeto-editar-3.png" alt="">
         </div>
     </div>
 </ul><br>
@@ -165,22 +158,22 @@
 
     <div class="tutorial">
         <div id="image">
-            <li>Primeiro você precisa acessar o seu perfil como feito anteriomente.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Acessando o menu de opções como anteriormente e selecione "Desativar".</li>
+            <img src="/manual/images/projeto-deletar-1.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Após acessar o seu perfil você deve ir na opção "Projetos", onde serão listados os seus projetos.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Confirme caso realmente deseja remover seu projeto.</li>
+            <img src="/manual/images/deletar-2.png" alt="">
         </div>
     </div>
 
     <div class="tutorial">
         <div id="image">
-            <li>Quando você acessar o seu projeto você deve ir na opção deletar projeto e então você terá seu projeto deletado.</li>
-            <img src="https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686969_GJ7zbz2qaNIE4dyHSbZkQXvNPzRuwlr3.jpg" alt="">
+            <li>Quando confirmado seu Projeto será desativado da sua conta.</li>
+            <img src="/manual/images/deletar-3.png" alt="">
         </div>
     </div>
 </ul>
